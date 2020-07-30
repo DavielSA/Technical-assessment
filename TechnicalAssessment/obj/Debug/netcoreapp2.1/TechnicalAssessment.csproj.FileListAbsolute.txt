@@ -1,0 +1,15 @@
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp2.1\TechnicalAssessment.csproj.CoreCompileInputs.cache
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp2.1\TechnicalAssessment.AssemblyInfoInputs.cache
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp2.1\TechnicalAssessment.AssemblyInfo.cs
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp2.1\TechnicalAssessment.deps.json
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp2.1\TechnicalAssessment.runtimeconfig.json
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp2.1\TechnicalAssessment.runtimeconfig.dev.json
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp2.1\TechnicalAssessment.dll
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp2.1\TechnicalAssessment.pdb
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp2.1\TechnicalAssessment.RazorAssemblyInfo.cache
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp2.1\TechnicalAssessment.RazorAssemblyInfo.cs
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp2.1\TechnicalAssessment.RazorTargetAssemblyInfo.cache
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp2.1\TechnicalAssessment.dll
+c:\users\a177493\source\repos\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp2.1\TechnicalAssessment.pdb
+C:\Users\A177493\source\repos\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\A177493\source\repos\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp2.1\TechnicalAssessment.csprojAssemblyReference.cache
