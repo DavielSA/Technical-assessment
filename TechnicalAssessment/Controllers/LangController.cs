@@ -28,7 +28,7 @@ namespace TechnicalAssessment.Controllers
         }
 
         // GET: api/Lang/5
-        [HttpGet("{id}", Name = "Get")]
+        [HttpGet("{id}", Name = "Gets")]
         public IActionResult Get(int id)
         {
             return new OkObjectResult(this.service.Get(id));
