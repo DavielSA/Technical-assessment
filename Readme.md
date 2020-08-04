@@ -90,8 +90,8 @@ Bonus:
 1. npm run
 
 
-## Fixing some bug to upload code.
-The repository has checked the folder html with untracked. For solved this we can run the next command:
+## Fixing some bug to upload code. (solved)
+The repository has marked the folder html as untracked. To solve this we can run the following command:
 1. $ git rm -rf --cached folderUntracked
 1. $ git add folderUntracked/.
 1. $ git commit -m "Your commit"
